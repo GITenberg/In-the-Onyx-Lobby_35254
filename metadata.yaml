@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35254#In-the-Onyx-Lobby
 gutenberg_issued: '2011-02-12'
 gutenberg_type: Text
 identifiers:
